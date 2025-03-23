@@ -1,7 +1,7 @@
 <!-- Cyberpunk Themed GitHub README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FF00&center=true&width=500&lines=👾+Welcome+to+My+Cyber+World+👾;💀+Hacker+|+Developer+|+Bug+Hunter+💀;⚡+Exploit+Code+|+Secure+Systems+|+Crack+Challenges+⚡">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FF00&center=true&width=500&lines=👾+Welcome+to+My+Cyber+World+👾;💀+Hacker+|+Developer+|+Bug+Hunter+💀;⚡+Exploits+|+Cyber+Security+|+Pentesting+⚡">
 </h1>
 
 <div align="center">
@@ -11,25 +11,27 @@
 ---
 
 ## 🔥 Who Am I?  
-👋 **Heyy! I'm Ishaan Arora**, a **cyber hacker, developer, and bug hunter** from **India 🇮🇳**  
+👋 **Heyy! I'm Ishaan Arora**, a **cyber security expert, hacker, and exploit researcher** from **India 🇮🇳**  
 
-> _"Code is my weapon, security is my mission."_  
+> _"Code is my weapon, exploits are my ammunition."_  
 
-- 🏴‍☠️ **Hacker Mindset** → Breaking barriers & securing digital frontiers  
-- ⚙️ **Developer** → Crafting tools, automation & cyber solutions  
-- 🚀 **Cyber Explorer** → Diving deep into vulnerabilities & exploits  
-- 🛡️ **Security Researcher** → Hardening systems, finding loopholes  
+- 🏴‍☠️ **Hacker Mindset** → Breaking barriers & discovering vulnerabilities  
+- 🔓 **Bug Hunter** → Hunting security flaws & reporting exploits  
+- ⚡ **Cyber Security Enthusiast** → Diving into ethical hacking & pentesting  
+- 🛠 **Programmer** → Writing scripts, automation tools & exploits  
 
 💡 _"Hack the planet, protect the world."_ 💡  
 
 ---
 
-## 🔥 Cyber Skills & Tools  
+## 🛠 Cyber Skills & Tools  
 💻 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 🔓 **Hacker Arsenal**  
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
@@ -37,10 +39,12 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=meta&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=blue)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=green)
 
 💾 **Databases & Exploit Research**  
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Google Dorks](https://img.shields.io/badge/Google_Dorks-000000?style=for-the-badge&logo=google&logoColor=red)
+![SQL Injection](https://img.shields.io/badge/SQL_Injection-000000?style=for-the-badge&logo=database&logoColor=red)
 
 ---
 
@@ -52,16 +56,22 @@
 
 ---
 
-## 🎯 Hacker’s Playground  
-💀 **Red Teaming & Exploits**  
+## 🎯 Cyber Security Expertise  
+💀 **Exploits & Vulnerabilities**  
 - Reverse Engineering & Binary Exploitation  
 - SQL Injection, XSS, CSRF, LFI, RFI, SSRF  
-- API Pentesting & Cloud Security  
+- Web Application Pentesting  
+- API Security & Bug Bounties  
 
-🔐 **Blue Team & Defense**  
-- Web App Security Hardening  
-- Cyber Threat Intelligence  
-- Encryption & Secure Coding  
+⚡ **Hacking & Ethical Hacking**  
+- Web Hacking & OSINT  
+- Privilege Escalation Techniques  
+- Social Engineering & Phishing  
+
+🛠 **Networking & Exploit Development**  
+- Network Scanning & Mapping (Nmap, Wireshark)  
+- Packet Sniffing & Spoofing  
+- Exploit Development & PoC Scripts  
 
 ---
 
