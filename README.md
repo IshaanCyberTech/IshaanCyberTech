@@ -1,7 +1,7 @@
-<!-- Cyberpunk Themed GitHub README -->
+<!-- CyberPunk Themed GitHub README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FF00&center=true&width=500&lines=👾+Welcome+to+My+Cyber+World+👾;💀+Hacker+|+Developer+|+Bug+Hunter+💀;⚡+Exploits+|+Cyber+Security+|+Pentesting+⚡">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FF00&center=true&width=600&lines=👾+Welcome+to+My+Cyber+World+👾;💀+Hacker+|+Pentester+|+Bug+Hunter+💀;⚡+Developer+|+Trader+|+Exploit+Researcher+⚡;🔥+AI-Powered+Programmer+|+TryHackMe+Labs+🔥">
 </h1>
 
 <div align="center">
@@ -11,20 +11,23 @@
 ---
 
 ## 🔥 Who Am I?  
-👋 **Heyy! I'm Ishaan Arora**, a **cyber security expert, hacker, and exploit researcher** from **India 🇮🇳**  
+👋 **Hey! I'm Ishaan Arora**, a **hacker, pentester, bug hunter, developer, trader, and exploit researcher** from **India 🇮🇳**  
 
-> _"Code is my weapon, exploits are my ammunition."_  
+> _"I don’t just break things, I build them too."_  
 
-- 🏴‍☠️ **Hacker Mindset** → Breaking barriers & discovering vulnerabilities  
-- 🔓 **Bug Hunter** → Hunting security flaws & reporting exploits  
-- ⚡ **Cyber Security Enthusiast** → Diving into ethical hacking & pentesting  
-- 🛠 **Programmer** → Writing scripts, automation tools & exploits  
+- 🏴‍☠️ **Hacker & Exploit Researcher** → Breaking security, testing defenses & finding vulnerabilities  
+- 🔓 **Bug Hunter & Pentester** → Hunting security flaws & earning bounties  
+- 🖥️ **Full-Stack Developer** → Creating web apps, automation scripts & custom exploits  
+- 🧠 **AI-Powered Programmer** → Using AI to assist in script development & automation  
+- 📈 **Trader & Market Analyst** → Investing in stocks, crypto, and algorithmic trading  
+- 🛠 **DDoS Specialist** → Understanding & testing attack vectors in cybersecurity  
+- 🎯 **TryHackMe & CTF Enthusiast** → Practicing labs, improving hacking skills, and ranking up  
 
-💡 _"Hack the planet, protect the world."_ 💡  
+💡 _"Adapt, exploit, create, and dominate."_ 💡  
 
 ---
 
-## 🛠 Cyber Skills & Tools  
+## 🛠 My Cyber Arsenal & Dev Stack  
 💻 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
@@ -32,23 +35,27 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=blue)
 
-🔓 **Hacker Arsenal**  
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+🔓 **Hacking & Exploitation Tools**  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=blue)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=meta&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=blue)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=green)
+![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=database&logoColor=red)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=security&logoColor=red)
 
-💾 **Databases & Exploit Research**  
+💾 **Databases & Web Security**  
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Google Dorks](https://img.shields.io/badge/Google_Dorks-000000?style=for-the-badge&logo=google&logoColor=red)
 ![SQL Injection](https://img.shields.io/badge/SQL_Injection-000000?style=for-the-badge&logo=database&logoColor=red)
 
 ---
 
-## 🚀 Cyber Stats  
+## 🚀 Cyber & Dev Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishaancybertech&show_icons=true&theme=radical&hide_border=true" alt="Ishaan's Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaancybertech&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
@@ -56,26 +63,27 @@
 
 ---
 
-## 🎯 Cyber Security Expertise  
-💀 **Exploits & Vulnerabilities**  
-- Reverse Engineering & Binary Exploitation  
+## 🎯 Skills & Capabilities  
+🛠 **Hacking & Pentesting**  
+- Reverse Engineering & Exploit Research  
 - SQL Injection, XSS, CSRF, LFI, RFI, SSRF  
-- Web Application Pentesting  
-- API Security & Bug Bounties  
-
-⚡ **Hacking & Ethical Hacking**  
-- Web Hacking & OSINT  
-- Privilege Escalation Techniques  
+- Web App & API Pentesting  
+- Wireless Network Attacks & Packet Sniffing  
 - Social Engineering & Phishing  
+- DDoS Attack Techniques  
 
-🛠 **Networking & Exploit Development**  
-- Network Scanning & Mapping (Nmap, Wireshark)  
-- Packet Sniffing & Spoofing  
-- Exploit Development & PoC Scripts  
+💡 **Development & AI Programming**  
+- Full-Stack Web Development (PHP, JS, SQL)  
+- AI-Powered Automation & Scripting  
+- CTF & TryHackMe Labs  
+
+📈 **Trading & Algorithmic Investments**  
+- Cryptocurrency & Stock Market Trading  
+- Technical Analysis & Bot Trading  
 
 ---
 
-## 📡 Stay Connected  
+## 🔥 Let's Connect  
 🔗 **Follow Me** on these cyber hubs!  
 <div align="center">
   <a href="https://www.youtube.com/@ishaancybertech" target="_blank">
@@ -97,7 +105,4 @@
 
 ---
 
-<div align="center">
-  <h2>💬 Got a Cyber Challenge?</h2>
-  <p>Ping me anytime—let’s talk hacking, coding, and security!</p>
-</div>
+🔥 **This README now represents YOU**—a hacker, developer, trader, and cyberwarrior! Want changes? Let me know! 🚀  
