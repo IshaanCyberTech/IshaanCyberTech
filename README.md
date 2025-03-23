@@ -1,5 +1,6 @@
 <div align="center">
   <h2>🔥 Heyy! I’m Ishaan Arora - Cyber Hacker, Developer & Engineer from India 🇮🇳</h2>
+  <img src="https://media.giphy.com/media/26n6Wq2W9e5d2zB8k/giphy.gif" width="120" alt="Hacking Gif"/>
 </div>
 
 ---
@@ -13,7 +14,7 @@ I’m Ishaan—a coding genius, hacking pro, and tool creator from India. I snea
 - ⚡ I vibe with: Challenges and coffee  
 
 <div align="right">
-  <img height="150" src="https://media.giphy.com/media/1gR1cS1w7nN0z0fD8k/giphy.gif" alt="Hacker Gif"/>
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Cool Gif"/>
 </div>
 
 ---
@@ -56,7 +57,7 @@ Here’s what I use to rule the cyber world:
 
 ### 🌍 Let’s Connect - I’m Everywhere!
 <div align="center">
-  <a href="[https://youtube.com/c/ishaancybertech](https://www.youtube.com/@ishaancybertech)" target="_blank">
+  <a href="https://youtube.com/c/ishaancybertech" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://instagram.com/ishaancybertech" target="_blank">
@@ -78,5 +79,4 @@ Here’s what I use to rule the cyber world:
 <div align="center">
   <h3>💬 Ready to Hack or Code Together?</h3>
   <p>Drop me a message—I’m always up for a cyber challenge!</p>
-  <img src="https://media.giphy.com/media/3o7TKsQ8k8qX9gZ5fO/giphy.gif" width="150" alt="Matrix Gif"/>
 </div>
