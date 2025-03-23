@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/3o7aCTfyhYwdaHNTeE/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZoZ3RhbnBrMGszeHJuanlvc2piaXR1ajUxZG52Znhvc2d3b3phYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)" width="400" alt="Hacking GIF"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZoZ3RhbnBrMGszeHJuanlvc2piaXR1ajUxZG52Znhvc2d3b3phYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Hacking GIF"/>
   <h2>🔥 Heyy! I’m Ishaan Arora - Cyber Hacker, Developer & Bug Hunter from India 🇮🇳</h2>
 </div>
 
