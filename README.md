@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aCTfyhYwdaHNTeE/giphy.gif" width="400" alt="Hacking GIF"/>
-  <h2>🔥 Heyy! I’m Ishaan Arora - Cyber Hacker, Developer & Engineer from India 🇮🇳</h2>
+  <h2>🔥 Heyy! I’m Ishaan Arora - Cyber Hacker, Developer & Bug Hunter from India 🇮🇳</h2>
 </div>
 
 ---
