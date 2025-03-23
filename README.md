@@ -1,61 +1,54 @@
 <div align="center">
-  <h1>👾 Ishaan Arora | CyberSec Overlord 👾</h1>
-  <p><em>Cybersecurity Specialist | Ethical Hacker | Penetration Tester | Bug Bounty Hunter | Tool Developer</em></p>
-  <p>From India with 💻 & ⚡ | Breaking systems to secure them | Black Hat vibes, White Hat ethics</p>
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200"/>
+  <h1>👋 Hey, I’m Ishaan Arora! 🚀</h1>
+  <p>A Cybersecurity Ninja & Code Wizard from India 🇮🇳</p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 </div>
 
 ---
 
-### 👨‍💻 Who Am I?
-I’m **Ishaan Arora**, a relentless cybersecurity enthusiast and developer from India. I live at the intersection of code and chaos—hacking systems, hunting bugs, and building tools to outsmart the bad guys. Whether it’s cracking vulnerabilities or securing networks, I thrive in the digital shadows.
+### 🌟 About Me
+Hey there! I’m Ishaan—a guy who loves hacking (the good kind!), coding, and making the internet safer. I break stuff to fix it, hunt bugs, and build cool tools. Welcome to my world of tech and tricks!
 
-- 🔒 **Mission**: Secure the web, one exploit at a time.
-- ⚙️ **Skills**: Ethical Hacking | Penetration Testing | Tool Development | Bug Bounty
-- 🌐 **Motto**: *“To break it, you must first understand it.”*
+- 💻 I code in: Python, C, C++, JavaScript  
+- 🔒 I secure: Networks, Apps, Systems  
+- 🐞 I hunt: Bugs & Vulnerabilities  
+- ⚡ Fun fact: I turn coffee into code!
 
 ---
 
-### 🛠️ My Arsenal
+### 🛠️ My Tech Tools
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
-  <img width="12"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="MSSQL" title="MSSQL"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android" title="Android"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" height="40" alt="Unreal Engine" title="Unreal Engine"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </div>
 
 ---
 
-### 🌩️ Hack the Planet
-- 💉 **Penetration Testing**: Exploiting weaknesses before they do.
-- 🐞 **Bug Hunting**: Finding the bugs others miss.
-- 🛠️ **Tool Dev**: Crafting custom scripts and tools for the grind.
-- 🖥️ **OS**: Linux is my playground, Windows is my challenge.
+### 🔥 What I Do
+- **Hacking**: Finding weak spots (ethically, of course!)  
+- **Coding**: Building tools and apps  
+- **Bug Hunting**: Catching bugs for fun and rewards  
+- **Learning**: Always leveling up my skills  
 
----
-
-### 📊 Stats That Speak
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaancybertech&show_icons=true&theme=radical&hide_border=true" alt="Ishaan's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaancybertech&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Ishaan's Top Languages"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Hacking Animation"/>
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### 📊 My Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaancybertech&show_icons=true&theme=dracula&hide_border=true" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaancybertech&theme=dracula&hide_border=true" alt="Streak"/>
+</div>
+
+---
+
+### 🌐 Let’s Connect!
 <div align="center">
   <a href="https://twitter.com/ishaancybertech" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
@@ -76,12 +69,14 @@ I’m **Ishaan Arora**, a relentless cybersecurity enthusiast and developer from
 
 ---
 
-### 🔍 Profile Views
+### 👀 Visitors
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishaancybertech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ishaancybertech&label=Visitors&color=brightgreen&style=flat" alt="Visitors"/>
 </div>
 
 ---
 
-> *“The quieter you become, the more you can hear.”*  
-> Let’s secure the future—together. DM me for collabs, projects, or just to geek out over code and exploits!
+<div align="center">
+  <p>💬 Want to chat about hacking, coding, or coffee? Hit me up!</p>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="Typing Animation"/>
+</div>
