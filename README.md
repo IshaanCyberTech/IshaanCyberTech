@@ -1,26 +1,41 @@
 <div align="center">
-  <h2>👋 Hi! I’m Ishaan Arora - Developer, Cyber Expert & Ethical Hacker from India 🇮🇳</h2>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="Cyber Gif"/>
+  <h2>🔥 Heyy! I’m Ishaan Arora - Cyber Hacker, Developer & Engineer from India 🇮🇳</h2>
 </div>
 
 ---
 
-### 🌟 Meet Your Cyber King
-Hey! I’m Ishaan—a coding rockstar and hacking pro from India. I break into systems, hunt bugs, and build awesome tools. Red teaming is my game, and I’m here to make the digital world tougher and cooler!
+### 🦸‍♂️ I’m Your Cyber Superhero!
+I’m Ishaan—a coding genius, hacking pro, and tool creator from India. I sneak into systems, find bugs, and build awesome stuff to keep the internet safe. Red teaming, exploiting, and coding are my superpowers!
 
-- 💻 I code: Fun programs and hacking tools  
 - 🔍 I hunt: Bugs and weak spots  
-- 🛠️ I build: Stuff to test and protect  
-- ⚡ I love: Challenges and coffee  
+- 💻 I code: Cool tools and programs  
+- 🛡️ I protect: Systems with my skills  
+- ⚡ I vibe with: Challenges and coffee  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="200" alt="Hacker Typing"/>
+<div align="right">
+  <img height="150" src="https://media.giphy.com/media/1gR1cS1w7nN0z0fD8k/giphy.gif" alt="Hacker Gif"/>
 </div>
 
 ---
 
-### 🎉 My Super Skills
-Here’s what I play with to rule the cyber world:  
+### 🎯 My Cyber Stats & Favorite Tools
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ishaancybertech&show_icons=true&theme=dracula&hide_border=true" alt="Ishaan's Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaancybertech&show_icons=true&theme=dracula&layout=compact&hide_border=true" alt="Ishaan's Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🛠️ My Hacking & Coding Powers
+Here’s what I use to rule the cyber world:  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img width="10"/>
@@ -39,56 +54,29 @@ Here’s what I play with to rule the cyber world:
 
 ---
 
-### 🚀 My Awesome Adventures
-- **Red Teaming**: Sneaking in to test security  
-- **Bug Hunting**: Finding bugs like a detective  
-- **Tool Making**: Coding programs to hack and help  
-- **Exploiting**: Breaking stuff to make it stronger  
-
-<div align="right">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Cool Gif"/>
-</div>
-
----
-
-### 📊 My Cyber Power
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaancybertech&show_icons=true&theme=neon&hide_border=true" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaancybertech&show_icons=true&theme=neon&layout=compact&hide_border=true" alt="Languages"/>
-</div>
-
----
-
-### 🌍 Find Me Here
+### 🌍 Let’s Connect - I’m Everywhere!
 <div align="center">
   <a href="https://youtube.com/c/ishaancybertech" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://instagram.com/ishaancybertech" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:ishaancybertech@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/ishaancybertech" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://twitter.com/ishaancybertech" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:ishaancybertech@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/ishaancybertech" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
 ---
 
-### 👀 Who’s Checking Me Out?
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishaancybertech&label=Visitors&color=ff69b4&style=flat" alt="Visitors"/>
-</div>
-
----
-
-<div align="center">
-  <h3>💬 Let’s Chat About Hacking or Tools!</h3>
-  <p>Drop me a message—I’m always up for a cyber adventure!</p>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="Matrix Gif"/>
+  <h3>💬 Ready to Hack or Code Together?</h3>
+  <p>Drop me a message—I’m always up for a cyber challenge!</p>
+  <img src="https://media.giphy.com/media/3o7TKsQ8k8qX9gZ5fO/giphy.gif" width="150" alt="Matrix Gif"/>
 </div>
