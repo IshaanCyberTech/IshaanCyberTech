@@ -1,6 +1,5 @@
 <div align="center">
   <h2>🔥 Heyy! I’m Ishaan Arora - Cyber Hacker, Developer & Engineer from India 🇮🇳</h2>
-  <img src="https://media.giphy.com/media/3o7TKsQ8k8qX9gZ5fO/giphy.gif" width="120" alt="Hacking Gif"/>
 </div>
 
 ---
@@ -13,10 +12,6 @@ I’m Ishaan—a coding genius, hacking pro, and tool creator from India. I snea
 - 🛡️ I protect: Systems with my skills  
 - ⚡ I vibe with: Challenges and coffee  
 
-<div align="right">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Cool Gif"/>
-</div>
-
 ---
 
 ### 🎯 My Cyber Stats & Favorite Tools
@@ -24,12 +19,10 @@ I’m Ishaan—a coding genius, hacking pro, and tool creator from India. I snea
   <table>
     <tr>
       <td>
-        <h3>IshaanCyberTech’s GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=ishaancybertech&show_icons=true&theme=radical&hide_border=true" alt="Ishaan's Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ishaancybertech&show_icons=true&theme=dracula&hide_border=true" alt="Ishaan's Stats"/>
       </td>
       <td>
-        <h3>Most Used Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaancybertech&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Ishaan's Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaancybertech&show_icons=true&theme=dracula&layout=compact&hide_border=true" alt="Ishaan's Languages"/>
       </td>
     </tr>
   </table>
