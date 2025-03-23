@@ -104,5 +104,3 @@
 </div>
 
 ---
-
-🔥 **This README now represents YOU**—a hacker, developer, trader, and cyberwarrior! Want changes? Let me know! 🚀  
