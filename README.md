@@ -1,6 +1,6 @@
 <div align="center">
   <h2>🔥 Heyy! I’m Ishaan Arora - Cyber Hacker, Developer & Engineer from India 🇮🇳</h2>
-  <img src="https://media.giphy.com/media/26n6Wq2W9e5d2zB8k/giphy.gif" width="120" alt="Hacking Gif"/>
+  <img src="https://media.giphy.com/media/3o7TKsQ8k8qX9gZ5fO/giphy.gif" width="120" alt="Hacking Gif"/>
 </div>
 
 ---
@@ -24,10 +24,12 @@ I’m Ishaan—a coding genius, hacking pro, and tool creator from India. I snea
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ishaancybertech&show_icons=true&theme=dracula&hide_border=true" alt="Ishaan's Stats"/>
+        <h3>IshaanCyberTech’s GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=ishaancybertech&show_icons=true&theme=radical&hide_border=true" alt="Ishaan's Stats"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaancybertech&show_icons=true&theme=dracula&layout=compact&hide_border=true" alt="Ishaan's Languages"/>
+        <h3>Most Used Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaancybertech&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Ishaan's Languages"/>
       </td>
     </tr>
   </table>
@@ -57,7 +59,7 @@ Here’s what I use to rule the cyber world:
 
 ### 🌍 Let’s Connect - I’m Everywhere!
 <div align="center">
-  <a href="https://youtube.com/c/ishaancybertech" target="_blank">
+  <a href="https://www.youtube.com/@ishaancybertech" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://instagram.com/ishaancybertech" target="_blank">
