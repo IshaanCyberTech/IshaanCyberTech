@@ -1,95 +1,94 @@
-<h2 align="left">Hi 👋! My name is Ishaan Arora and I'm a Developer, Cybersecurity Expert, and Ethical Hacker from India</h2>
-
 <div align="center">
-  <h1>🔥 Ishaan Arora - The Red Team Hacker 🔥</h1>
-  <p>I’m a cyber warrior from India 🇮🇳 breaking systems to make them stronger!</p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Wave"/>
+  <h2>👋 Hi! I’m Ishaan Arora - Developer, Cyber Expert & Ethical Hacker from India 🇮🇳</h2>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="Cyber Gif"/>
 </div>
 
 ---
 
-### 😎 Who I Am
-Hey there! I’m Ishaan—a coding genius and hacking master. I sneak into systems, find weak spots, and crush bugs. I love red teaming—testing security like a pro hacker (but the good kind!).
+### 🌟 Meet Your Cyber King
+Hey! I’m Ishaan—a coding rockstar and hacking pro from India. I break into systems, hunt bugs, and build awesome tools. Red teaming is my game, and I’m here to make the digital world tougher and cooler!
 
-- 🎯 I attack: Systems to find holes  
-- 🐞 I hunt: Bugs and vulnerabilities  
-- 💻 I code: Tools to break and fix  
-- ⚡ I live for: Coffee and epic challenges  
+- 💻 I code: Fun programs and hacking tools  
+- 🔍 I hunt: Bugs and weak spots  
+- 🛠️ I build: Stuff to test and protect  
+- ⚡ I love: Challenges and coffee  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="200" alt="Hacker Typing"/>
+</div>
+
+---
+
+### 🎉 My Super Skills
+Here’s what I play with to rule the cyber world:  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Google"/>
+</div>
+
+---
+
+### 🚀 My Awesome Adventures
+- **Red Teaming**: Sneaking in to test security  
+- **Bug Hunting**: Finding bugs like a detective  
+- **Tool Making**: Coding programs to hack and help  
+- **Exploiting**: Breaking stuff to make it stronger  
 
 <div align="right">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Cool Animation"/>
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Cool Gif"/>
 </div>
 
 ---
 
-### 🎨 My Hacking Kit
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Google"/>
-</div>
-
----
-
-### 💥 What I Do
-- **Red Teaming**: Sneaking in like a ninja to test security  
-- **Exploiting**: Finding cool ways to break stuff  
-- **Bug Hunting**: Tracking down vulnerabilities like a boss  
-- **Fixing**: Making the web safer, one hack at a time  
-
+### 📊 My Cyber Power
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="200" alt="Hacking Gif"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaancybertech&show_icons=true&theme=neon&hide_border=true" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaancybertech&show_icons=true&theme=neon&layout=compact&hide_border=true" alt="Languages"/>
 </div>
 
 ---
 
-### 🌐 Let’s Connect
-<div align="left">
+### 🌍 Find Me Here
+<div align="center">
   <a href="https://youtube.com/c/ishaancybertech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://instagram.com/ishaancybertech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:ishaancybertech@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/ishaancybertech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/ishaancybertech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
 ---
 
-### 📊 My Hacking Score
+### 👀 Who’s Checking Me Out?
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaancybertech&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaancybertech&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Languages"/>
-</div>
-
----
-
-### 👀 Visitors
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=ishaancybertech&label=Visitors&color=brightgreen&style=flat" alt="Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=ishaancybertech&label=Visitors&color=ff69b4&style=flat" alt="Visitors"/>
 </div>
 
 ---
 
 <div align="center">
-  <p>💬 Want to talk hacks, bugs, or epic ideas? Hit me up!</p>
-  <img src="https://media.giphy.com/media/3o7aD2d7hyDhXJLWdW/giphy.gif" width="150" alt="Cyber Gif"/>
+  <h3>💬 Let’s Chat About Hacking or Tools!</h3>
+  <p>Drop me a message—I’m always up for a cyber adventure!</p>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="Matrix Gif"/>
 </div>
