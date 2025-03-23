@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠 My Cyber Arsenal & Dev Stack  
+## 🛠 My Cyber Skills & Tools & Dev Stack  
 💻 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
