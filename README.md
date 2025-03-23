@@ -56,7 +56,7 @@ Here’s what I use to rule the cyber world:
 
 ### 🌍 Let’s Connect - I’m Everywhere!
 <div align="center">
-  <a href="https://youtube.com/c/ishaancybertech" target="_blank">
+  <a href="[https://youtube.com/c/ishaancybertech](https://www.youtube.com/@ishaancybertech)" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://instagram.com/ishaancybertech" target="_blank">
