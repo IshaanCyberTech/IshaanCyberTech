@@ -1,9 +1,17 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=00FFF7&center=true&vCenter=true&width=800&lines=EagleExploit;Build+by+Breaking.;Hack+Smart.+Fail+Fast.;Focus+on+20%2C+Master+with+Execution."/>
-</h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&color=00E8FF&center=true&vCenter=true&width=800&lines=Vision.+Precision.+Impact.;Ethical+Hacking.+Tool+Development.;Focus+on+20%25.+Master+80%25.;Hack+Smart.+Evolve+Fast." 
+    alt="Typing Animation"
+  />
+</p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZoZ3RhbnBrMGszeHJuanlvc2piaXR1ajUxZG52Znhvc2d3b3phYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Hacking GIF"/>
+  <img 
+    src="https://media.giphy.com/media/YQitE4bL6bY6o6gN9/giphy.gif" 
+    width="280" 
+    alt="Cyber Animation" 
+    style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.5);" 
+  />
 </p>
 
 ---
