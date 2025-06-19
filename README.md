@@ -1,16 +1,16 @@
-<!-- 🚀 Hero Section: Animated Title + Autoplay Cyber GIF -->
+<!-- 🚀 Hero Section: Hacker-Terminal Animation + Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=3000&pause=1000&color=00E8FF&center=true&vCenter=true&width=900&lines=EagleExploit;Built+by+Breaking.;Hack+Smart%2C+Fail+Fast.;Focus+20%25.+Impact+80%25" alt="EagleExploit Typing Animation" />
+  <img src="https://gifer.com/en/gifs/terminal" width="400" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0,232,255,0.8);" alt="Neon Hacker Terminal Animation" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="360" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0,232,255,0.8);" alt="Cyberpunk Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=3000&pause=1000&color=00E8FF&center=true&vCenter=true&width=900&lines=EagleExploit;Built+by+Breaking.;Hack+Smart%2C+Fail+Fast.;Focus+20%25.+Impact+80%25" alt="EagleExploit Typing Animation" />
 </p>
 
 ---
 
 <h2 align="center">🦅 EagleExploit</h2>
-<h4 align="center"><code>A fusion of Vision (Eagle) + Precision Exploits</code></h4>
+<h4 align="center"><code>Sharp Vision. Precise Exploits. Real Impact.</code></h4>
 
 ---
 
