@@ -1,20 +1,16 @@
 <!-- 🚀 Hero Section: Hacker-Terminal Animation + Typing Title -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00E8FF&center=true&width=700&lines=👾+Welcome+to+My+Cyber+World+👾;💀+Hacker+|+Pentester+|+Bug+Hunter+💀;⚡+Built+by+Breaking.+Hack+Smart.+Fail+Fast.;🎯+Focus+on+the+20%25+that+drives+80%25+impact.;⚡+Developer+|+Trader+|+Exploit+Researcher+⚡;🔥+AI-Powered+Programmer+|+TryHackMe+Labs+🔥">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00E8FF&center=true&vCenter=true&width=850&lines=👾+Welcome+to+My+Cyber+World+👾;💀+Hacker+%7C+Pentester+%7C+Bug+Hunter+💀;⚡+Built+by+Breaking+%7C+Hack+Smart+%7C+Fail+Fast;🎯+Master+the+20%25+that+drives+80%25+impact.;⚔️+Exploit+Researcher+%7C+Red+Team+Ops;🔥+AI-Powered+Programmer+%7C+TryHackMe+Labs+🔥">
 </h1>
 
 ---
 
-<h2 align="center">🦅 EagleExploit</h2>
-
----
+<h2 align="center">🦅 Eagle Exploit</h2>
 
 <div align="center">
   <img src="./intro.gif" width="400" alt="Eagle Exploit Intro Animation" />
 </div>
-
----
 
 <h4 align="center"><code>Sharp Vision. Precise Exploits. Real Impact.</code></h4>
 
