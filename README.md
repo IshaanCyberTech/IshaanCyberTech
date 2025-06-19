@@ -1,10 +1,12 @@
+<!-- 🚀 Hero Section with Typing and Auto-Playing GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&color=00E8FF¢er=true&vCenter=true&width=900&lines=EagleExploit;Built+by+Breaking;Hack+Smart.+Evolve+Fast;Focus+20%25.+Impact+80%25" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&color=00E8FF&center=true&vCenter=true&width=900&lines=EagleExploit;Built+by+Breaking;Hack+Smart.+Evolve+Fast;Focus+20%25.+Impact+80%25" alt="EagleExploit Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Cyber Animation" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,232,255,0.5);"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Cyber Matrix GIF" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,232,255,0.5);" />
 </p>
+
 
 
 ---
