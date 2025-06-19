@@ -1,6 +1,6 @@
 <!-- 🚀 Hero Section: Hacker-Terminal Animation + Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00E8FF&center=true&vCenter=true&width=950&lines=🦅+Eagle+Exploit;⚡+Built+by+Breaking.+Hack+Smart.+Fail+Fast.;🎯+Focus+on+the+20%25+that+drives+80%25+impact.;💻+Exploit+Researcher+%7C+AI+Coder+%7C+Red+Team+Ops;" alt="Eagle Exploit Terminal Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00E8FF&center=true&vCenter=true&width=1000&lines=🦅+Eagle+Exploit;⚡+Built+by+Breaking.+Hack+Smart.+Fail+Fast.;🎯+Focus+on+the+20%25+that+drives+80%25+impact.;💻+Exploit+Researcher+%7C+AI+Coder+%7C+Red+Team+Ops;" alt="Eagle Exploit Typing Animation">
 </p>
 
 
