@@ -1,7 +1,7 @@
 <!-- 🚀 Hero Section: Hacker-Terminal Animation + Typing Title -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00E8FF&center=true&width=650&lines=👾+Welcome+to+My+Cyber+World+👾;💀+Hacker+|+Pentester+|+Bug+Hunter+💀;⚡+Built+by+Breaking.+Hack+Smart.+Fail+Fast.;🎯+Focus+on+the+20%25+that+drives+80%25+impact.;⚡+Developer+|+Trader+|+Exploit+Researcher+⚡;🔥+AI-Powered+Programmer+|+TryHackMe+Labs+🔥">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00E8FF&center=true&width=700&lines=👾+Welcome+to+My+Cyber+World+👾;💀+Hacker+|+Pentester+|+Bug+Hunter+💀;⚡+Built+by+Breaking.+Hack+Smart.+Fail+Fast.;🎯+Focus+on+the+20%25+that+drives+80%25+impact.;⚡+Developer+|+Trader+|+Exploit+Researcher+⚡;🔥+AI-Powered+Programmer+|+TryHackMe+Labs+🔥">
 </h1>
 
 
