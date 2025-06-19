@@ -1,11 +1,5 @@
 <!-- 🚀 Hero Section: Hacker-Terminal Animation + Typing Title -->
-<p align="center">
-  <img src="https://gifer.com/en/gifs/terminal" width="400" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0,232,255,0.8);" alt="Neon Hacker Terminal Animation" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=3000&pause=1000&color=00E8FF&center=true&vCenter=true&width=900&lines=EagleExploit;Built+by+Breaking.;Hack+Smart%2C+Fail+Fast.;Focus+20%25.+Impact+80%25" alt="EagleExploit Typing Animation" />
-</p>
 
 ---
 
