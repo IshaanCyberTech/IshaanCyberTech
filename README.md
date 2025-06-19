@@ -1,5 +1,7 @@
 <!-- 🚀 Hero Section: Hacker-Terminal Animation + Typing Title -->
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FF00&center=true&width=600&lines=👾+Welcome+to+My+Cyber+World+👾;💀+Hacker+|+Pentester+|+Bug+Hunter+💀;⚡+Developer+|+Trader+|+Exploit+Researcher+⚡;🔥+AI-Powered+Programmer+|+TryHackMe+Labs+🔥">
+</h1>
 
 ---
 
