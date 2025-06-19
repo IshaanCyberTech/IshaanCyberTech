@@ -24,11 +24,13 @@
 
 ## ⚡ About Me
 
-I focus on the **20% that drives 80% of impact**.  
-I don’t chase perfection. I build by breaking.  
-I fail fast. I learn faster.  
-<br>
-<code>Do → Fail → Fix → Evolve</code>
+I don’t study everything. I focus on the **20% that truly matters** — the skills that drive **80% of the impact**.
+
+The rest?  
+I do. I fail. I fix. I learn — fast.
+
+I believe failure teaches faster than theory, and action beats overthinking.  
+I don’t chase perfection. I chase progress.
 
 ---
 
