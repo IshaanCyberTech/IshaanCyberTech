@@ -62,27 +62,40 @@ I don’t chase perfection. I chase progress.
 
 ---
 
-## ⚙️ Tech Stack & Tools
 
-### 💻 Languages & Frameworks
+## 🛠 My Cyber Skills & Tools & Dev Stack  
+💻 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=blue)
 
-### 🧨 Cybersecurity & Red Teaming
+🔓 **Hacking & Exploitation Tools**  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=blue)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=meta&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=green)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=blue)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=green)
 ![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=database&logoColor=red)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=security&logoColor=red)
 
-### 🧱 Databases & Web Recon
+💾 **Databases & Web Security**  
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Google Dorks](https://img.shields.io/badge/Google_Dorks-000000?style=for-the-badge&logo=google&logoColor=red)
+![SQL Injection](https://img.shields.io/badge/SQL_Injection-000000?style=for-the-badge&logo=database&logoColor=red)
+
+---
+
+## 🚀 Cyber & Dev Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaancybertech&show_icons=true&theme=radical&hide_border=true" alt="Ishaan's Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaancybertech&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+</div>
 
 ---
 
@@ -119,4 +132,4 @@ I don’t chase perfection. I chase progress.
 <p align="center">
   <b><i>“Master the 20% that matters. Break the rest until it makes sense.”</i></b>
 </p>
-   can u make its more proffesional and simpel but powerfull and  more attractiev design and style  and animations
+
