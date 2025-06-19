@@ -8,9 +8,9 @@
 
 ---
 
-## 🔰 Who Am I?
+## 🔰 About
 
-> **I’m Ishaan**, aka `EagleExploit` — a hacker, red teamer, exploit researcher, and builder. I don’t learn everything — I focus on the **20% that matters**, and I master the rest by **breaking, failing, and fixing**.
+> **EagleExploit** is a cyber-focused brand built on simplicity, speed, and execution. I don’t study everything. I focus on the **20% that truly matters**, and I learn the rest by breaking, failing, and doing.
 
 > _"I don’t chase perfection. I chase execution."_
 
@@ -29,8 +29,8 @@
 ## 🧠 Philosophy
 
 > **EagleExploit is about sharp execution, focused learning, and real results.**  
-> I focus on the **20% of skills** that bring **80% of the results**. The rest? I **do it**, **break it**, **fail fast**, and **fix smarter**.  
-> I don’t overcomplicate. I act. I grow.
+> Focus on the 20% that creates 80% of the impact. Learn the rest by doing, breaking, fixing.  
+> Simplicity. Clarity. Execution.
 
 ---
 
