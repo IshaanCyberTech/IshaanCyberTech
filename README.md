@@ -1,9 +1,7 @@
 <!-- 🚀 Hero Section: Hacker-Terminal Animation + Typing Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00E8FF&center=true&vCenter=true&multiline=true&width=1000&lines=🦅+Eagle+Exploit;⚡+Built+by+Breaking.+Hack+Smart.+Fail+Fast.;🎯+Focus+on+the+20%25+that+drives+80%25+impact.;💻+Exploit+Researcher+%7C+AI+Coder+%7C+Red+Team+Ops." />
-</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FF00&center=true&width=600&lines=👾+Welcome+to+My+Cyber+World+👾;💀+Hacker+|+Pentester+|+Bug+Hunter+💀;⚡+Developer+|+Trader+|+Exploit+Researcher+⚡;🔥+AI-Powered+Programmer+|+TryHackMe+Labs+🔥">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FF00&center=true&width=600&lines=👾+Welcome+to+My+Cyber+World+👾;💀+Hacker+|+Pentester+|+Bug+Hunter+💀;⚡+Built+by+Breaking.+Hack+Smart.+Fail+Fast.;🎯+Focus+on+the+20%25+that+drives+80%25+impact.;⚡+Developer+|+Trader+|+Exploit+Researcher+⚡;🔥+AI-Powered+Programmer+|+TryHackMe+Labs+🔥">
 </h1>
 
 
