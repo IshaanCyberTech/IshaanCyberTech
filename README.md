@@ -1,88 +1,62 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=00FFF7&center=true&vCenter=true&width=800&lines=EagleExploit;Build+by+Breaking.;Hack+Smart.+Fail+Fast.;Focus+on+20%2C+Master+with+Execution."/>
+<h1 align="center" style="font-weight: 700; font-family: 'Fira Code', monospace;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&color=00FFF7&center=true&vCenter=true&width=700&lines=EagleExploit;Built+by+Breaking;Hack+Smart.+Fail+Fast;Focus+on+20%25,+Master+with+Execution" alt="EagleExploit Typing" />
 </h1>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZoZ3RhbnBrMGszeHJuanlvc2piaXR1ajUxZG52Znhvc2d3b3phYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Hacking GIF"/>
+<p align="center" style="font-size:1.2rem; color:#00FFF7; max-width:600px; margin:auto; line-height:1.5; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <strong>EagleExploit</strong> blends sharp vision <span style="color:#00FFA7;">🦅</span> with ruthless execution <span style="color:#00A7FF;">💥</span> — focused on mastering the 20% that drives 80% of real impact.<br/>
+  <em>Built by Breaking. Learn fast, fail fast, grow stronger.</em>
 </p>
 
----
-
-## 🛡️ Brand Overview
-
-**Brand Name:** EagleExploit  
-**A fusion of vision (Eagle) and offensive skill (Exploit)**  
-Built for red teaming, ethical hacking, tool development, and cyber growth.  
-Represents someone who learns by doing, grows through action, and builds by breaking.
-
-**Identity:** Ishaan  
-**Username:** [@IshaanCyberTech](https://github.com/ishaancybertech)
-
----
-
-## 🔰 About
-
-I don’t study everything. I focus on the **20% that truly matters** — the skills that drive **80% of the impact**.
-
-The rest?  
-I do. I fail. I fix. I learn — fast.
-
-I believe failure teaches faster than theory, and action beats overthinking.  
-I don’t chase perfection. I chase progress.
+<div align="center" style="margin-top: 20px;">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Hacking Animation" width="400" style="border-radius: 12px; box-shadow: 0 0 20px #00FFF7cc;" />
+</div>
 
 ---
 
 ## 🧠 Philosophy
 
-**EagleExploit is about sharp execution, focused learning, and real results.**
-
-> Build by Breaking.  
-> Do. Fail. Fix. Learn.  
-> 20% Focus. 80% Execution.  
-> Hack Smart. Fail Fast.
+> “Master the 20% that matters. Break the rest until it makes sense.”  
+> — <em>EagleExploit Manifesto</em>
 
 ---
 
-## 🎯 Expertise
+## 🔰 About Me
 
-- 🏴‍☠️ **Hacker & Exploit Researcher** — Security breaking, vulnerability testing
-- 🔓 **Bug Hunter & Pentester** — Finding flaws, earning bounties
-- 🖥️ **Full-Stack Developer** — Web, scripts, automation, custom tools
-- 🧠 **AI-Driven Programmer** — Building with smart automation
-- 📈 **Trader & Market Analyst** — Crypto, stocks, algo-trading
-- 🛠 **DDoS Tester** — Attack surface testing & simulation
-- 🎯 **TryHackMe & CTF Competitor** — Active learner, lab solver
+- I don’t chase knowledge; I chase results.  
+- Learn by doing, fail faster, fix smarter, repeat.  
+- Focus on execution, not perfection.
+
+---
+
+## 🎯 Core Expertise
+
+| Area                  | Description                                 |
+|-----------------------|---------------------------------------------|
+| 🏴‍☠️ Hacker & Exploit Researcher | Security testing, vulnerability hunting |
+| 🔓 Bug Hunter & Pentester | Find bugs, earn bounties                  |
+| 🖥️ Full-Stack Developer | Web, automation, tools                      |
+| 🧠 AI-Powered Programmer | Smart automation and coding                |
+| 📈 Trader & Market Analyst | Crypto, stocks, algo-trading               |
+| 🛠 DDoS Tester          | Attack surface simulation                    |
+| 🎯 TryHackMe & CTF Competitor | Active learning & challenges              |
 
 ---
 
 ## ⚙️ Tech Stack & Tools
 
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=blue)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### 🧨 Cybersecurity & Red Teaming
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=blue)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=meta&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=green)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=blue)
-![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=database&logoColor=red)
-
-### 🧱 Databases & Web Recon
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=green)
-![Google Dorks](https://img.shields.io/badge/Google_Dorks-000000?style=for-the-badge&logo=google&logoColor=red)
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaancybertech&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaancybertech&theme=radical&hide_border=true" width="48%"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=blue" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <br/>
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=blue" />
+  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange" />
+  <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=meta&logoColor=white" />
+  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=green" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=blue" />
+  <img alt="SQLmap" src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=database&logoColor=red" />
 </p>
 
 ---
@@ -90,25 +64,15 @@ I don’t chase perfection. I chase progress.
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://youtube.com/@ishaancybertech" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/ishaancybertech" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/ishaancybertech" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:ishaancybertech@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/ishaancybertech" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://youtube.com/@ishaancybertech" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://instagram.com/ishaancybertech" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://twitter.com/ishaancybertech" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:ishaancybertech@gmail.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/ishaancybertech" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-<p align="center">
-  <b><i>“Master the 20% that matters. Break the rest until it makes sense.”</i></b>
+<p align="center" style="font-style: italic; font-weight: 600; color:#00FFF7;">
+  “Master the 20% that matters. Break the rest until it makes sense.”
 </p>
