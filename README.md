@@ -16,7 +16,7 @@
 
 ## 👤 Real Name & Identity
 
-**Your Name:** Ishaan Arora 🇮🇳  
+**Your Name:** Ishaan Arora <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f3.png" width="20" alt="🇮🇳" />  
 **Username:** [@IshaanCyberTech](https://github.com/ishaancybertech)  
 **Brand Identity:** EagleExploit  
 
@@ -24,23 +24,24 @@
 
 ## ⚡ About Me
 
-I don’t study everything. I focus on the **20% that truly matters** — the skills that drive **80% of the impact**.
+I don’t study everything.  I focus on the **20% that truly matters** — the skills that create **80% of the impact**.
 
 The rest?  
-I do. I fail. I fix. I learn — fast.
+I **do**. I **fail**. I **fix**. I **learn** — fast.
 
-I believe failure teaches faster than theory, and action beats overthinking.  
-I don’t chase perfection. I chase progress.
+I believe **failure teaches faster than theory**,  and **action beats overthinking**.
+I don’t chase **perfection**.  I chase **progress**.
 
 ---
 
 ## 🧠 Philosophy
-
+**EagleExploit is about sharp execution, focused learning, and real results.**
 > **Hack Smart. Fail Fast. Learn Deep.**  
-> Progress over Perfection.  
-> Execution over Excuses.  
-> Master what matters. Ignore the noise.
-
+> Progress beats perfection.
+> Build by breaking. Grow by fixing.
+> Execution over excuses — always.
+> Master what matters. Focus on the 20% that drives 80% of impact.
+> Hack Smart. Fail Fast. Do. Fail. Fix. Learn. Repeat.
 ---
 
 ## 🧰 Tools & Tech Stack
