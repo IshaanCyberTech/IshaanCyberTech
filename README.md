@@ -9,7 +9,7 @@
 <h2 align="center">🦅 Eagle Exploit</h2>
 
 <div align="center">
-  <img src="./intro.gif" width="400" alt="Eagle Exploit Intro Animation" />
+  <img src="./intro-.gif" width="400" alt="Eagle Exploit Intro Animation" />
 </div>
 
 <h4 align="center"><code>Sharp Vision. Precise Exploits. Real Impact.</code></h4>
