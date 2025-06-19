@@ -11,7 +11,14 @@
 
 <h2 align="center">🦅 EagleExploit</h2>
 <h4 align="center"><code>A fusion of Vision (Eagle) + Precision Exploits</code></h4>
-<p align="center">🔓 Red Teamer | 💻 Full Stack Dev | 🧠 AI Coder | ⚔️ CTF Player | 🚨 Ethical Hacker</p>
+
+---
+
+## 👤 Real Name & Identity
+
+**Your Name:** Ishaan Arora 🇮🇳  
+**Username:** [@IshaanCyberTech](https://github.com/ishaancybertech)  
+**Brand Identity:** EagleExploit  
 
 ---
 
@@ -36,37 +43,56 @@ I fail fast. I learn faster.
 
 ## 🧰 Tools & Tech Stack
 
-### 💻 Languages
+### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell&logoColor=blue)
 
-### ⚔️ Offensive & Security Tools
+### ⚔️ Hacking & Exploitation Tools
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux&logoColor=blue)
 ![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=meta&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-black?style=for-the-badge&logo=burpsuite&logoColor=orange)
+![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=blue)
 ![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge&logo=nmap&logoColor=green)
+![SQLmap](https://img.shields.io/badge/SQLmap-black?style=for-the-badge&logo=database&logoColor=red)
 ![Hydra](https://img.shields.io/badge/Hydra-black?style=for-the-badge&logo=security&logoColor=red)
+
+### 🧠 Intelligence & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/GPT-4-black?style=for-the-badge&logo=openai&logoColor=green)
+![AutoGPT](https://img.shields.io/badge/AutoGPT-black?style=for-the-badge&logo=python&logoColor=cyan)
+
+### 💾 Databases & Web Security
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green)
+![Google Dorks](https://img.shields.io/badge/Google_Dorks-black?style=for-the-badge&logo=google&logoColor=red)
+![SQL Injection](https://img.shields.io/badge/SQL_Injection-black?style=for-the-badge&logo=database&logoColor=red)
 
 ---
 
 ## 🔥 Expertise
 
-| 🔧 Skill | ⚡ What I Do |
-|---------|--------------|
-| 💣 Exploitation | Reverse engineering, vulnerability testing |
-| 🧪 Bug Hunting | Web apps, APIs, mobile, logic flaws |
-| 🖥 Dev Stack | Full-stack tools, automation, security dashboards |
-| 🧬 AI Programming | GPT logic, AI bots, intelligent assistants |
-| 📈 Trading Systems | Strategy automation, bots, signals |
-| ⚔️ Red Teaming | Payload crafting, infrastructure stress testing |
+| 🚀 Area | 💡 Description |
+|--------|----------------|
+| 🏴‍☠️ **Hacker & Exploit Researcher** | Deep vulnerability testing & custom exploit development |
+| 🔓 **Bug Hunter & Pentester** | Web/API/logic flaw hunting and bounty programs |
+| 🖥️ **Full-Stack Developer** | End-to-end tools, dashboards, backends, and UIs |
+| 🧠 **AI-Powered Programmer** | Smart bots, code generation, automation frameworks |
+| 📈 **Algo Trader & Analyst** | Data-driven strategies, bots, market prediction |
+| 🛠 **DDoS Tester** | Infrastructure simulation & high-pressure testing |
+| ⚔️ **Red Team Operator** | Payload engineering, stealth recon & access ops |
+| 🎯 **TryHackMe / CTF Pro** | Realistic labs, Capture The Flag, challenge solving |
+| ✅ **Ethical Hacker** | Responsible disclosure, audits, and security consulting |
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishaancybertech&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaancybertech&theme=radical&hide_border=true" width="48%" />
