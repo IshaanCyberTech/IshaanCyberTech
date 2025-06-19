@@ -16,7 +16,7 @@
 
 ## 👤 Real Name & Identity
 
-**Your Name:** Ishaan Arora <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f3.png" width="20" alt="🇮🇳" />  
+**Your Name:** Ishaan Arora ![IN](https://flagcdn.com/w20/in.png)  
 **Username:** [@IshaanCyberTech](https://github.com/ishaancybertech)  
 **Brand Identity:** EagleExploit  
 
