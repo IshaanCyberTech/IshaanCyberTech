@@ -1,3 +1,7 @@
+<!--
+  EagleExploit GitHub README Header - Single Markdown File
+-->
+
 <h1 align="center" style="font-weight: 700; font-family: 'Fira Code', monospace;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&color=00FFF7&center=true&vCenter=true&width=700&lines=EagleExploit;Built+by+Breaking;Hack+Smart.+Fail+Fast;Focus+on+20%25,+Master+with+Execution" alt="EagleExploit Typing" />
 </h1>
