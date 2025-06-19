@@ -11,17 +11,35 @@
 ## 🛡️ Brand Overview
 
 **Brand Name:** EagleExploit  
+**A fusion of vision (Eagle) and offensive skill (Exploit)**  
+Built for red teaming, ethical hacking, tool development, and cyber growth.  
+Represents someone who learns by doing, grows through action, and builds by breaking.
+
 **Identity:** Ishaan  
-**Username:** [@IshaanCyberTech](https://github.com/ishaancybertech)  
-**Tagline:** _"Build by Breaking. Hack Smart. Fail Fast."_
+**Username:** [@IshaanCyberTech](https://github.com/ishaancybertech)
 
 ---
 
 ## 🔰 About
 
-**EagleExploit** is a focused cyber brand built on clarity, minimalism, and impactful action. The goal is to stay simple, act fast, and master through experience — not perfection.
+I don’t study everything. I focus on the **20% that truly matters** — the skills that drive **80% of the impact**.
 
-I don't learn everything. I focus on the **20% that matters**, and gain mastery by **failing smart and executing consistently**.
+The rest?  
+I do. I fail. I fix. I learn — fast.
+
+I believe failure teaches faster than theory, and action beats overthinking.  
+I don’t chase perfection. I chase progress.
+
+---
+
+## 🧠 Philosophy
+
+**EagleExploit is about sharp execution, focused learning, and real results.**
+
+> Build by Breaking.  
+> Do. Fail. Fix. Learn.  
+> 20% Focus. 80% Execution.  
+> Hack Smart. Fail Fast.
 
 ---
 
@@ -34,13 +52,6 @@ I don't learn everything. I focus on the **20% that matters**, and gain mastery 
 - 📈 **Trader & Market Analyst** — Crypto, stocks, algo-trading
 - 🛠 **DDoS Tester** — Attack surface testing & simulation
 - 🎯 **TryHackMe & CTF Competitor** — Active learner, lab solver
-
----
-
-## 🧠 Philosophy
-
-> **“Don’t chase everything. Focus on what matters.”**  
-> Learn the core 20% that creates real impact. The rest? Fail fast. Fix fast. Improve faster.
 
 ---
 
