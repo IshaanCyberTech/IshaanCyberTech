@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&color=00FFF7&center=true&vCenter=true&width=800&lines=🦅+EagleExploit;Build+by+Breaking.;Hack+Smart.+Fail+Fast.;20%+Focus.+80%+Execution."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=00FFF7&center=true&vCenter=true&width=800&lines=EagleExploit;Build+by+Breaking.;Hack+Smart.+Fail+Fast.;Focus+on+20%2C+Master+with+Execution."/>
 </h1>
 
 <p align="center">
@@ -8,33 +8,43 @@
 
 ---
 
+## 🛡️ Brand Overview
+
+**Brand Name:** EagleExploit  
+**Identity:** Ishaan  
+**Username:** [@IshaanCyberTech](https://github.com/ishaancybertech)  
+**Tagline:** _"Build by Breaking. Hack Smart. Fail Fast."_
+
+---
+
 ## 🔰 About
 
-> **EagleExploit** is a cyber-focused brand built on simplicity, speed, and execution. I don’t study everything. I focus on the **20% that truly matters**, and I learn the rest by breaking, failing, and doing.
+**EagleExploit** is a focused cyber brand built on clarity, minimalism, and impactful action. The goal is to stay simple, act fast, and master through experience — not perfection.
 
-> _"I don’t chase perfection. I chase execution."_
+I don't learn everything. I focus on the **20% that matters**, and gain mastery by **failing smart and executing consistently**.
 
-### 🧭 What I Do:
+---
 
-- 🏴‍☠️ **Hacker & Exploit Researcher** → Breaking security, testing defenses & finding vulnerabilities  
-- 🔓 **Bug Hunter & Pentester** → Hunting security flaws & earning bounties  
-- 🖥️ **Full-Stack Developer** → Creating web apps, automation scripts & custom exploits  
-- 🧠 **AI-Powered Programmer** → Using AI to assist in script development & automation  
-- 📈 **Trader & Market Analyst** → Investing in stocks, crypto, and algorithmic trading  
-- 🛠 **DDoS Specialist** → Understanding & testing attack vectors in cybersecurity  
-- 🎯 **TryHackMe & CTF Enthusiast** → Practicing labs, improving hacking skills, and ranking up  
+## 🎯 Expertise
+
+- 🏴‍☠️ **Hacker & Exploit Researcher** — Security breaking, vulnerability testing
+- 🔓 **Bug Hunter & Pentester** — Finding flaws, earning bounties
+- 🖥️ **Full-Stack Developer** — Web, scripts, automation, custom tools
+- 🧠 **AI-Driven Programmer** — Building with smart automation
+- 📈 **Trader & Market Analyst** — Crypto, stocks, algo-trading
+- 🛠 **DDoS Tester** — Attack surface testing & simulation
+- 🎯 **TryHackMe & CTF Competitor** — Active learner, lab solver
 
 ---
 
 ## 🧠 Philosophy
 
-> **EagleExploit is about sharp execution, focused learning, and real results.**  
-> Focus on the 20% that creates 80% of the impact. Learn the rest by doing, breaking, fixing.  
-> Simplicity. Clarity. Execution.
+> **“Don’t chase everything. Focus on what matters.”**  
+> Learn the core 20% that creates real impact. The rest? Fail fast. Fix fast. Improve faster.
 
 ---
 
-## 🛠 Tech Stack & Tools
+## ⚙️ Tech Stack & Tools
 
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
@@ -43,7 +53,7 @@
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=blue)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🧨 Hacking & Red Teaming
+### 🧨 Cybersecurity & Red Teaming
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=blue)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=meta&logoColor=white)
@@ -51,7 +61,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=blue)
 ![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=database&logoColor=red)
 
-### 🧱 Web & Database
+### 🧱 Databases & Web Recon
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Google Dorks](https://img.shields.io/badge/Google_Dorks-000000?style=for-the-badge&logo=google&logoColor=red)
@@ -89,5 +99,5 @@
 ---
 
 <p align="center">
-  <b><i>"Focus on what matters. Fail to master the rest."</i></b>
+  <b><i>“Master the 20% that matters. Break the rest until it makes sense.”</i></b>
 </p>
