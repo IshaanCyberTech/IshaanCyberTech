@@ -20,7 +20,7 @@
 
 **Your Name:** Ishaan Arora ![IN](https://flagcdn.com/w20/in.png)  
 **Username:** [@IshaanCyberTech](https://github.com/ishaancybertech)  
-**Brand Identity:** EagleExploit  
+**Brand Identity:** IshaanCyberTech  
 
 ---
 
@@ -37,7 +37,7 @@ I don’t chase **perfection**.  I chase **progress**.
 ---
 
 ## 🧠 Philosophy
-**EagleExploit is about sharp execution, focused learning, and real results.**
+**IshaanCyberTech is about sharp execution, focused learning, and real results.**
 > **Hack Smart. Fail Fast. Learn Deep.**  
 > Progress beats perfection.
 > Build by breaking. Grow by fixing.
