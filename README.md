@@ -8,7 +8,7 @@
 
 <h2 align="center">⚔️ IshaanCyberTech </h2>
 
-<h4 align="center"><code>Sharp Vision. Precise Exploits. Real Impact.</code></h4>
+<h4 align="center"><code>Sharp Vision.</code></h4>
 
 ---
 
